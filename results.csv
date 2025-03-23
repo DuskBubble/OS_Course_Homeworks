@@ -1,0 +1,6 @@
+Algorithm,Job Throughput,CPU Utilization,Average Turnaround Time,Average Response Time,Average Waiting Time
+FCFS,0.153846,100%,15.25,8.75,8.75
+SJF,0.153846,100%,14.25,7.75,7.75
+SRTF,0.153846,100%,13,4.25,6.5
+RR,0.153846,100%,18.75,3.5,12.25
+Priority,0.153846,100%,14.25,7.75,7.75
